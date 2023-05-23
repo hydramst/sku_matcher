@@ -1,6 +1,7 @@
 # SKU matcher creation
 
 This project is for automation of SKU matching process. 
+![image](https://github.com/hydramst/sku_matcher/assets/44744458/66ebe24d-9aa9-4822-8aba-ef5bd6ab484e)
 
 
 ## Table of Contents
@@ -61,8 +62,9 @@ You can select the desired technique by modifying the configuration in the "Vect
 
 The project provides evaluation metrics such as accuracy to assess the performance of the classification models. The results of prediction on test descriptions can be found in the `output_file.xlsx` file.
 
+![image](https://github.com/hydramst/sku_matcher/assets/44744458/15e822b6-af54-490a-9024-b52f2a2cff83)
+
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
-
-Feel free to modify and customize the README file according to your project's specific details and requirements.
