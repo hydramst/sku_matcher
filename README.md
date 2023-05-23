@@ -1,6 +1,7 @@
 # SKU matcher creation
 
 This project is for automation of SKU matching process. 
+
 ![image](https://github.com/hydramst/sku_matcher/assets/44744458/66ebe24d-9aa9-4822-8aba-ef5bd6ab484e)
 
 
