@@ -1,4 +1,4 @@
-# SKU matcher creation
+# SKU matcher
 
 This project is for automation of SKU matching process. 
 
