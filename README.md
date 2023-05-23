@@ -1,4 +1,3 @@
-```
 # SKU matcher creation
 
 This project is for automation of SKU matching process. 
@@ -44,7 +43,7 @@ pip install -r requirements.txt
 3. Run the project:
 
 ```
-run mathcer.ipynb
+run matcher.ipynb
 ```
 
 4. Explore the results:
